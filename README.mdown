@@ -1,0 +1,5 @@
+Ninefold Sandbox
+===
+
+Sandbox for experimenting with the Ninefold Rails hosting service.
+
